@@ -4,7 +4,7 @@
 a set of utilities to sync, connect and disconnect ANY airbuds
 this is windows only, so there are no "complex" explainations, you must install python (prefferrably ms-store version) , and PyQT6 (from python's pip package manager)
 
-install pyqt6:
+install pyqt6 (on an administrator CMD/Powershell shell):
 
     pip install PyQt6
 
